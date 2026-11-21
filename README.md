@@ -1,6 +1,6 @@
 <div align="center">SANJAY DAS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=WEB3+COMMUNITY+MANAGER;BUILDING+WEB3+PRODUCTS;COMMUNITY+%C2%B7+GROWTH+%C2%B7+EXPERIMENTS" alt="Typing animation" />"Portfolio" (https://sanjaydas.vercel.app/) · "X" (https://x.com/S4Sanjay_das) · "LinkedIn" (https://www.linkedin.com/in/sanjaydascrypto20)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=WEB3+COMMUNITY+MANAGER;BUILDING+WEB3+PRODUCTS;COMMUNITY+%C2%B7+GROWTH+%C2%B7+EXPERIMENTS" alt="Typing animation" />"Portfolio"(https://sanjaydas.vercel.app/) · "X"(https://x.com/S4Sanjay_das) · "LinkedIn"(https://www.linkedin.com/in/sanjaydascrypto20)
 
 </div>---
 
